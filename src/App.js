@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Map from './component/Map'
+import Map from './component/MapContainer.js'
 
 class App extends Component {
   render() {
